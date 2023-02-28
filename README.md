@@ -13,3 +13,4 @@ When the user has 1000 samosas, they can buy the Full Feast upgrade, which produ
 The game continues on forever and the user can continue to gain gigantic amounts of samosas. Yum!
 
 ## Project
+![Output](public/98F4E20C-C40B-4DFC-B532-8AD7222B826F.mov)
